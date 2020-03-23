@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "vvilelaj",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "public",
+    "url": "https://github.com/vvilelaj/npm-registry-test"
+  }
 }
